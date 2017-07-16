@@ -24,12 +24,9 @@ import org.nd4j.linalg.lossfunctions.LossFunctions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * @author Adam Gibson
- */
-public class CSVExample {
+public class LightsOutAI {
 
-    private static Logger log = LoggerFactory.getLogger(CSVExample.class);
+    private static Logger log = LoggerFactory.getLogger(LightsOutAI.class);
 
     public static void main(String[] args) throws  Exception {
 
